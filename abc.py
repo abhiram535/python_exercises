@@ -4,6 +4,6 @@ with open("students.txt", "w") as file:
     file.write("Bob Jones\n")
     file.write("Charlie Brown\n")
     file.write("Diana Prince\n")
-    file.write("Evan Wright\n")
+    file.write("Evan Wrighting\n")
 
 print("File 'students.txt' has been successfully created with 5 student names.")
